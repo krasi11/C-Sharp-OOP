@@ -20,3 +20,5 @@ In the Object Oriented Programming course we will learn about the principles and
 
 8. [Polymorphism-Exc]()
 
+9. [Exceptions and Error Handling](https://github.com/krasi11/C-Sharp-OOP/tree/main/Exceptions%20and%20Error%20Handling)
+
