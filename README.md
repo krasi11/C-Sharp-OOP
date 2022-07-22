@@ -6,9 +6,9 @@ In the Object Oriented Programming course we will learn about the principles and
 
 1.[Inheritance](https://github.com/krasi11/C-Sharp-OOP/tree/main/Inheritance)
 
-[Inheritance-Exc](https://github.com/krasi11/C-Sharp-OOP/tree/main/Inheritance-Exercice)
+2.[Inheritance-Exc](https://github.com/krasi11/C-Sharp-OOP/tree/main/Inheritance-Exercice)
 
-[Encapsulation]()
+3.[Encapsulation]()
 
-[Encapsulation-Exc](https://github.com/krasi11/C-Sharp-OOP/tree/main/Encapsulation-Excercise)
+4.[Encapsulation-Exc](https://github.com/krasi11/C-Sharp-OOP/tree/main/Encapsulation-Excercise)
 
