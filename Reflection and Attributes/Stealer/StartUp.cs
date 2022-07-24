@@ -6,9 +6,11 @@ namespace Stealer
     {
         static void Main(string[] args)
         {
-            Spy currentSpy = new Spy();
-            string result = currentSpy.CollectGettersAndSetters("Stealer.Hacker");
-            Console.WriteLine(result);
+            var spy = new Spy();
+            Console.WriteLine(spy.StealFieldInfo("Hacker", new string[] { "username", "password" }));
+            Console.WriteLine(spy.AnalyzeAccessModifiers("Hacker"));
+            Console.WriteLine(spy.RevealPrivateMethods("Hacker"));
+            Console.WriteLine(spy.CollectGettersAndSetters("Hacker"));
         }
     }
 }
