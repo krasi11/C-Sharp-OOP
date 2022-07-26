@@ -18,7 +18,7 @@ In the Object Oriented Programming course we will learn about the principles and
 
 7. [Polymorphism]()
 
-8. [Polymorphism-Exc]()
+8. [Polymorphism-Exc](https://github.com/krasi11/C-Sharp-OOP/tree/main/Polymorphism-Exc)
 
 9. [Exceptions and Error Handling](https://github.com/krasi11/C-Sharp-OOP/tree/main/Exceptions%20and%20Error%20Handling)
 
